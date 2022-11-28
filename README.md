@@ -12,12 +12,12 @@
 
 
 ## zalo
-[telegram group](https://zalo.me/thanhsangdev)
+[Zalo me](https://zalo.me/thanhsangdev)
 
 ## Cách sử dụng
 ```sh
 You must use Python 3.9 or higher
-DOWNLOAD:  git clone https://github.com/cutipu/HTTP2-Flood.git
+DOWNLOAD:  git clone https://github.com/transang407/HTTP2-Flood.git
 INSTALL: - python setup.py install or python3 setup.py install
 ```
 
